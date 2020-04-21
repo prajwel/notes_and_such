@@ -1,4 +1,4 @@
-#### Summary notes/paraphrases on "STAR FORMATION IN GALAXIES ALONG THE HUBBLE SEQUENCE" by Robert C. Kennicutt, Jr.
+#### Summary of "STAR FORMATION IN GALAXIES ALONG THE HUBBLE SEQUENCE" by Robert C. Kennicutt, Jr. The adopted approach here is to summarise each paragraph. To save myself time, I have mostly used direct quotations from the original.
 
 
 # 1. INTRODUCTION
